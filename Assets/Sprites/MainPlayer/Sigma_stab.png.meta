@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 9d7c6652fbd1a714ba584ed9c939cf60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4082993505638004369
+    second: Sigma_stab_0
+  - first:
+      213: 333965632887433416
+    second: Sigma_stab_1
+  - first:
+      213: -6398517643459870846
+    second: Sigma_stab_2
+  - first:
+      213: -6402361245067563543
+    second: Sigma_stab_3
+  - first:
+      213: 4052150653093568639
+    second: Sigma_stab_4
+  - first:
+      213: -6584716976489397341
+    second: Sigma_stab_5
+  - first:
+      213: -770677785940362212
+    second: Sigma_stab_6
+  - first:
+      213: -5600592272196631464
+    second: Sigma_stab_7
+  - first:
+      213: -3695241412588511297
+    second: Sigma_stab_8
+  - first:
+      213: -2744903588634231833
+    second: Sigma_stab_9
+  - first:
+      213: -6556685727292249420
+    second: Sigma_stab_10
+  - first:
+      213: 9058405801436772966
+    second: Sigma_stab_11
+  - first:
+      213: 3283838314561188951
+    second: Sigma_stab_12
+  - first:
+      213: -7279411719349884523
+    second: Sigma_stab_13
+  - first:
+      213: 6307541793602484102
+    second: Sigma_stab_14
+  - first:
+      213: -6870455314391725810
+    second: Sigma_stab_15
+  - first:
+      213: 2229281832437823353
+    second: Sigma_stab_16
+  - first:
+      213: -2785799974832478930
+    second: Sigma_stab_17
+  - first:
+      213: 5170127679483367321
+    second: Sigma_stab_18
+  - first:
+      213: -2160834560668815208
+    second: Sigma_stab_19
+  - first:
+      213: 5310348226298725330
+    second: Sigma_stab_20
+  - first:
+      213: -7966519751859645502
+    second: Sigma_stab_21
+  - first:
+      213: -4990513830577611778
+    second: Sigma_stab_22
+  - first:
+      213: -950491608744492106
+    second: Sigma_stab_23
+  - first:
+      213: 7948500258606755857
+    second: Sigma_stab_24
+  - first:
+      213: 8486121711824672139
+    second: Sigma_stab_25
+  - first:
+      213: -5908588687458838369
+    second: Sigma_stab_26
+  - first:
+      213: -3501971030270889035
+    second: Sigma_stab_27
+  - first:
+      213: -4410524913401916839
+    second: Sigma_stab_28
+  - first:
+      213: 7631749787282416250
+    second: Sigma_stab_29
+  - first:
+      213: -1881968446994490856
+    second: Sigma_stab_30
+  - first:
+      213: -3747374778876110675
+    second: Sigma_stab_31
+  - first:
+      213: -3719279212208230273
+    second: Sigma_stab_32
+  - first:
+      213: 7455200351061696725
+    second: Sigma_stab_33
+  - first:
+      213: 861431664350774227
+    second: Sigma_stab_34
+  - first:
+      213: -6267469703333140705
+    second: Sigma_stab_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sigma_stab_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 193
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196b7c3f5f4b9a830800000000000000
+      internalID: 4082993505638004369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a17349fb72a400800000000000000
+      internalID: 333965632887433416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f3184aa16e337a0800000000000000
+      internalID: -6398517643459870846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed25086e5e3627a0800000000000000
+      internalID: -6402361245067563543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70620ebc812c3830800000000000000
+      internalID: 4052150653093568639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 194
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38dd51cc26e94a0800000000000000
+      internalID: -6584716976489397341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 128
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7dbc03a00e45f0800000000000000
+      internalID: -770677785940362212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8540ceb6003b642b0800000000000000
+      internalID: -5600592272196631464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5953738dd7bcc0800000000000000
+      internalID: -3695241412588511297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_9
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf2c0bab428e9d0800000000000000
+      internalID: -2744903588634231833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_10
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 11
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba2fd0e119f105a0800000000000000
+      internalID: -6556685727292249420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66af9f9351ce5bd70800000000000000
+      internalID: 9058405801436772966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754bc3f6c89829d20800000000000000
+      internalID: 3283838314561188951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_13
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 11
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599a556fb955afa90800000000000000
+      internalID: -7279411719349884523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873b9da7d3e88750800000000000000
+      internalID: 6307541793602484102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_15
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 7
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098c74fa4d37a0a0800000000000000
+      internalID: -6870455314391725810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_16
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97730bee30000fe10800000000000000
+      internalID: 2229281832437823353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_17
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2561d4cea9d659d0800000000000000
+      internalID: -2785799974832478930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_18
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 11
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f45036bbbffb740800000000000000
+      internalID: 5170127679483367321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_19
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b2f86a6c2302e0800000000000000
+      internalID: -2160834560668815208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_20
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 9
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3492e839522b940800000000000000
+      internalID: 5310348226298725330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_21
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3d54e7e7c317190800000000000000
+      internalID: -7966519751859645502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_22
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 13
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5fb9ac122ebab0800000000000000
+      internalID: -4990513830577611778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_23
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 11
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b38bc2faec2fc2f0800000000000000
+      internalID: -950491608744492106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_24
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 11
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1103b5b4fdebe4e60800000000000000
+      internalID: 7948500258606755857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_25
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851a0a4cb2c4c570800000000000000
+      internalID: 8486121711824672139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_26
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98df10d4e9700ea0800000000000000
+      internalID: -5908588687458838369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3bef6f6ef766fc0800000000000000
+      internalID: -3501971030270889035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_28
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521baf85faaac2c0800000000000000
+      internalID: -4410524913401916839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_29
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a1ad2ffb69e960800000000000000
+      internalID: 7631749787282416250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_30
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a56662ba7e1e5e0800000000000000
+      internalID: -1881968446994490856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_31
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8d4d83e76aefbc0800000000000000
+      internalID: -3747374778876110675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_32
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7075d71347726cc0800000000000000
+      internalID: -3719279212208230273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_33
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0666e4831367760800000000000000
+      internalID: 7455200351061696725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_34
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c6efd88b64fb00800000000000000
+      internalID: 861431664350774227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma_stab_35
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172e44e2897509a0800000000000000
+      internalID: -6267469703333140705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sigma_stab_0: 4082993505638004369
+      Sigma_stab_1: 333965632887433416
+      Sigma_stab_10: -6556685727292249420
+      Sigma_stab_11: 9058405801436772966
+      Sigma_stab_12: 3283838314561188951
+      Sigma_stab_13: -7279411719349884523
+      Sigma_stab_14: 6307541793602484102
+      Sigma_stab_15: -6870455314391725810
+      Sigma_stab_16: 2229281832437823353
+      Sigma_stab_17: -2785799974832478930
+      Sigma_stab_18: 5170127679483367321
+      Sigma_stab_19: -2160834560668815208
+      Sigma_stab_2: -6398517643459870846
+      Sigma_stab_20: 5310348226298725330
+      Sigma_stab_21: -7966519751859645502
+      Sigma_stab_22: -4990513830577611778
+      Sigma_stab_23: -950491608744492106
+      Sigma_stab_24: 7948500258606755857
+      Sigma_stab_25: 8486121711824672139
+      Sigma_stab_26: -5908588687458838369
+      Sigma_stab_27: -3501971030270889035
+      Sigma_stab_28: -4410524913401916839
+      Sigma_stab_29: 7631749787282416250
+      Sigma_stab_3: -6402361245067563543
+      Sigma_stab_30: -1881968446994490856
+      Sigma_stab_31: -3747374778876110675
+      Sigma_stab_32: -3719279212208230273
+      Sigma_stab_33: 7455200351061696725
+      Sigma_stab_34: 861431664350774227
+      Sigma_stab_35: -6267469703333140705
+      Sigma_stab_4: 4052150653093568639
+      Sigma_stab_5: -6584716976489397341
+      Sigma_stab_6: -770677785940362212
+      Sigma_stab_7: -5600592272196631464
+      Sigma_stab_8: -3695241412588511297
+      Sigma_stab_9: -2744903588634231833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
